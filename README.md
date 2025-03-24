@@ -5,8 +5,8 @@ A minimalist Angry Birds-style 2D physics game built using **Swift** and **Sprit
 Simple drag-and-release gameplay to launch the bird and knock down the boxes!
 
 <div align="center">
-  <img src="Screenshots/ui.png" width="300" alt="Game UI 1">
-  <img src="Screenshots/ui2.png" width="300" alt="Game UI 2">
+  <img src="screenshots/ui.png" width="300" alt="Game UI 1">
+  <img src="screenshots/ui2.png" width="300" alt="Game UI 2">
 </div>
 
 ---
